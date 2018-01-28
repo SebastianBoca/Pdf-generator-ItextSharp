@@ -1,0 +1,7 @@
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\bin\Debug\pdf rendering.exe.config
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\bin\Debug\pdf rendering.exe
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\bin\Debug\pdf rendering.pdb
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\obj\Debug\pdf rendering.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\obj\Debug\pdf rendering.exe
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\obj\Debug\pdf rendering.pdb
+C:\Users\Sebastian\source\repos\pdf rendering\pdf rendering\bin\Debug\iTextSharp.dll
